@@ -1,5 +1,5 @@
 # ra-axfr
-Basic tool to extract perform AXFR DNS Request
+Basic tool to perform AXFR DNS request
 
 ### Installation
 
