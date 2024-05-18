@@ -33,3 +33,6 @@ Example:
 ```
 ra-axfr -list domains.txt -json
 ```
+
+## Status
+This project was purely for my personal learning. If it isn't obvious, this shouldn't be incorporated in any type of application, and the only reason it is open source is that if someone would find useful information or parts from it.
